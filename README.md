@@ -1,6 +1,6 @@
 # Blog Website
 
-Brief description of our blog website.
+BlogBurst responsive Multipage Blog Website : the ultimate web platform for passionate bloggers and avid readers. Immerse yourself in a world of diverse publications, where you can sign up, explore captivating categories, and contribute your own unique perspective
 
 ## Descriptive Video
 
