@@ -1,6 +1,6 @@
 # Blog Website
 
-BlogBurst is a versatile platform designed for seamless blogging experiences. Administrators efficiently manage users, categories, and posts, while users contribute content to public pages or specific categories. The platform's intuitive design encourages active participation and fosters a diverse community of content creators.
+BlogBurst is a platform designed for seamless blogging experiences. Administrators efficiently manage users, categories, and posts, while users contribute content to public pages or specific categories. The platform's intuitive design encourages active participation and fosters a diverse community of content creators.
 
 ## Descriptive Video
 
